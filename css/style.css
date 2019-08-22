@@ -85,6 +85,18 @@ header, h1 {
     cursor: pointer;
 
 }
+#rck {
+    border-radius: 50%;
+    height: 200px;
+}
+#ppr {
+    border-radius: 50%; 
+  }
+#scsr {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
 
 #rock:hover {
     background-color: rgb(66, 32, 4);
